@@ -22,7 +22,6 @@ BLOCKS = [
     ("verse", "thy rod and thy staff they comfort me."),
     ("reflection", "The valley may remain, but we do not walk through it alone. The Lord is with us."),
     ("prayer", "Lord, when the way feels dark, help me trust that You are near. Amen."),
-    ("closing", "You do not walk alone today."),
 ]
 
 pipeline = KPipeline(lang_code="a")

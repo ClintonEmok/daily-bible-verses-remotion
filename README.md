@@ -5,7 +5,7 @@ A clean Remotion + React renderer for the Daily Bible Verses KJV channel.
 The project supports two formats:
 
 - `BibleShort`: verse-only KJV reading with phrase-level highlighting
-- `DevotionalSample`: verse-specific opening, scripture, reflection, prayer, and closing
+- `DevotionalSample`: verse-specific opening, scripture, reflection, and prayer
 
 Both formats use Kokoro `af_heart` at speed `0.90`. Audio and visual timing come from the generated Kokoro phrase or block boundaries, so the displayed text is the exact text being spoken. WhisperX is not required for this renderer.
 

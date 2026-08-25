@@ -3,8 +3,8 @@ export const DEVOTIONAL = {
   "audio": "psalm_23_4_devotional_af_heart.wav",
   "voice": "af_heart",
   "speed": 0.9,
-  "duration": 31.96,
-  "word_count": 87,
+  "duration": 29.59,
+  "word_count": 81,
   "mode": "devotional",
   "alignment": "Kokoro block boundaries; no WhisperX",
   "blocks": [
@@ -63,13 +63,6 @@ export const DEVOTIONAL = {
       "text": "Lord, when the way feels dark, help me trust that You are near. Amen.",
       "start": 24.715,
       "end": 29.59
-    },
-    {
-      "index": 8,
-      "kind": "closing",
-      "text": "You do not walk alone today.",
-      "start": 29.71,
-      "end": 31.96
     }
   ]
 } as const;

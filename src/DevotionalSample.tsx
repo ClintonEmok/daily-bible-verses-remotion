@@ -26,8 +26,9 @@ export const DevotionalSample: React.FC = () => {
     const nextStart = DEVOTIONAL.blocks[index + 1]?.start ?? block.end;
     return seconds >= block.start && seconds < nextStart;
   });
-  const active = DEVOTIONAL.blocks[activeIndex];
-  const currentKind = active?.kind ?? "closing";
+  const safeActiveIndex = activeIndex >= 0 ? activeIndex : DEVOTIONAL.blocks.length - 1;
+  const active = DEVOTIONAL.blocks[safeActiveIndex];
+  const currentKind = active.kind;
 
   const bgScale = interpolate(frame, [0, durationInFrames], [1.04, 1.13], {
     extrapolateLeft: "clamp",
