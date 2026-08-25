@@ -1,0 +1,27 @@
+{
+  "name": "daily-bible-verses-remotion",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Remotion and React renderer for verse-only and devotional Bible Shorts.",
+  "scripts": {
+    "dev": "remotion studio src/index.ts",
+    "render:verse": "remotion render src/index.ts BibleShort out/verse.mp4",
+    "render:devotional": "remotion render src/index.ts DevotionalSample out/devotional.mp4",
+    "sample:verse": "python scripts/generate_verse_sample.py",
+    "sample:devotional": "python scripts/generate_devotional_sample.py",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.517",
+    "@remotion/renderer": "^4.0.517",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "remotion": "^4.0.517"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.2",
+    "typescript": "^5.8.3"
+  },
+  "type": "commonjs"
+}
