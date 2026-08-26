@@ -1,0 +1,3227 @@
+[
+  {
+    "reference": "Psalm 1:1-3",
+    "theme": "guidance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 3:3-6",
+    "theme": "protection",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 4:8",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 9:9-10",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 16:8-9",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 18:1-3",
+    "theme": "strength",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 18:30",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 19:1-4",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 23:1",
+    "theme": "comfort",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 23:2",
+    "theme": "comfort",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 23:3",
+    "theme": "guidance",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 23:4",
+    "theme": "fear",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 23:5",
+    "theme": "provision",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 23:6",
+    "theme": "hope",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 25:4-7",
+    "theme": "guidance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 25:9",
+    "theme": "guidance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 27:1",
+    "theme": "fear",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 27:4",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 27:13-14",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 28:7",
+    "theme": "strength",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Psalm 29:10-11",
+    "theme": "strength",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 30:5",
+    "theme": "joy",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 31:14-16",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 31:19-24",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 32:1-2",
+    "theme": "forgiveness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 32:8",
+    "theme": "guidance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 33:8-12",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 33:18-22",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 34:1",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 34:4-5",
+    "theme": "fear",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 34:8",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 34:9-10",
+    "theme": "provision",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 34:17-19",
+    "theme": "comfort",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 34:22",
+    "theme": "redemption",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 37:3-5",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 37:4",
+    "theme": "joy",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 37:7",
+    "theme": "peace",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 37:23-24",
+    "theme": "guidance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 37:28",
+    "theme": "faithfulness",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 37:34",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 37:39-40",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 40:1-3",
+    "theme": "hope",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Psalm 40:5-8",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 42:1-2",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 42:5-6",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 42:11",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 43:3-5",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 46:1",
+    "theme": "strength",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 46:2-3",
+    "theme": "fear",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 46:4-7",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 46:10",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 50:14-15",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 51:1-2",
+    "theme": "forgiveness",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 51:10-12",
+    "theme": "forgiveness",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 51:17",
+    "theme": "humility",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 55:22",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 56:3-4",
+    "theme": "fear",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 61:1-4",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 62:5-8",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 62:8",
+    "theme": "trust",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Psalm 63:1-4",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 66:8-12",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 66:20",
+    "theme": "faithfulness",
+    "devotional_score": 6
+  },
+  {
+    "reference": "Psalm 68:19-20",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 71:1-6",
+    "theme": "trust",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 71:14-16",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 71:20-24",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 73:23-28",
+    "theme": "guidance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 84:1-4",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 84:10-12",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 85:6-8",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 85:9-13",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 86:1-7",
+    "theme": "trust",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 89:1-2",
+    "theme": "faithfulness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 90:1-4",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 90:12-17",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 91:1-2",
+    "theme": "trust",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 91:3-4",
+    "theme": "protection",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 91:5-6",
+    "theme": "fear",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 91:9-10",
+    "theme": "protection",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 91:11-12",
+    "theme": "protection",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 91:14-16",
+    "theme": "salvation",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 92:1-5",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 92:12-15",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 94:18-19",
+    "theme": "comfort",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 95:1-3",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 95:6-11",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 100:1-5",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 103:1-5",
+    "theme": "comfort",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 103:8",
+    "theme": "love",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 103:8-14",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 107:1-3",
+    "theme": "redemption",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 107:8-9",
+    "theme": "provision",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 107:20-22",
+    "theme": "healing",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 111:9-10",
+    "theme": "wisdom",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 112:1-4",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 112:6-9",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 116:1-7",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 116:8-19",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 118:5-9",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 118:14-18",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 118:24-29",
+    "theme": "joy",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 119:9-11",
+    "theme": "guidance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 119:18",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 119:46",
+    "theme": "courage",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 119:50",
+    "theme": "comfort",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 119:76-77",
+    "theme": "comfort",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 119:89-91",
+    "theme": "faithfulness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 119:97-105",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 119:105",
+    "theme": "guidance",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 119:114",
+    "theme": "protection",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 119:130",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 119:133",
+    "theme": "guidance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 119:165",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 121:1-2",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 121:3-4",
+    "theme": "protection",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 121:5-6",
+    "theme": "protection",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 121:7-8",
+    "theme": "protection",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 125:1-3",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 126:1-6",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 127:1-3",
+    "theme": "guidance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 130:1-8",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 130:5-8",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 131:1-3",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 133:1-3",
+    "theme": "love",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 138:1-3",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 138:6-8",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 139:1-6",
+    "theme": "identity",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 139:14",
+    "theme": "identity",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 139:23-24",
+    "theme": "guidance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 143:1-2",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 143:8-12",
+    "theme": "guidance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 145:1-9",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 145:14-21",
+    "theme": "provision",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 146:1-6",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Psalm 150:1-6",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 2:6-10",
+    "theme": "wisdom",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 3:5-6",
+    "theme": "guidance",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Proverbs 4:18",
+    "theme": "guidance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 4:23",
+    "theme": "wisdom",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 8:17-21",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 10:12",
+    "theme": "love",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 11:2",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 12:15",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 13:12",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 14:21-22",
+    "theme": "love",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 14:26-27",
+    "theme": "trust",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 15:1",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 15:3",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 15:29",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 15:33",
+    "theme": "humility",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 16:3",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 16:7",
+    "theme": "peace",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 16:9",
+    "theme": "guidance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 16:16",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 16:18-19",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 16:20",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 17:22",
+    "theme": "joy",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 18:10",
+    "theme": "safety",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 18:21",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 19:17",
+    "theme": "generosity",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 19:23",
+    "theme": "fear",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 20:22",
+    "theme": "trust",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 21:2",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 21:21",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 21:30-31",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 22:2",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 22:4",
+    "theme": "humility",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 22:6",
+    "theme": "guidance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 22:9",
+    "theme": "generosity",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 23:17-18",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 24:16",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 25:21-22",
+    "theme": "love",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 26:12",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 27:5-6",
+    "theme": "love",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 27:12",
+    "theme": "wisdom",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 27:17",
+    "theme": "wisdom",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 27:21",
+    "theme": "wisdom",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 28:1",
+    "theme": "courage",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 28:5",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 28:13",
+    "theme": "forgiveness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 28:14",
+    "theme": "fear",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 28:18",
+    "theme": "guidance",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 28:25",
+    "theme": "trust",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 28:26",
+    "theme": "trust",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 28:27",
+    "theme": "generosity",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 29:6",
+    "theme": "joy",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 29:8",
+    "theme": "wisdom",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 29:11",
+    "theme": "wisdom",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 29:17",
+    "theme": "family",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 29:18",
+    "theme": "guidance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 29:20",
+    "theme": "wisdom",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 29:23",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 29:25",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 29:26",
+    "theme": "guidance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 30:5",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 30:8-9",
+    "theme": "guidance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 31:10-12",
+    "theme": "love",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 31:17",
+    "theme": "strength",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 31:20-22",
+    "theme": "generosity",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 31:25",
+    "theme": "strength",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Proverbs 31:26-27",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Proverbs 31:30-31",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Ecclesiastes 3:11",
+    "theme": "purpose",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Isaiah 9:6-7",
+    "theme": "hope",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Isaiah 12:2-3",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 25:1",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 26:3-4",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 30:15",
+    "theme": "strength",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 30:18",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 32:17",
+    "theme": "peace",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 35:1-4",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 35:3-6",
+    "theme": "courage",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 38:16-18",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 40:1-2",
+    "theme": "comfort",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 40:9-11",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 40:28-31",
+    "theme": "strength",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Isaiah 41:10",
+    "theme": "strength",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Isaiah 41:13",
+    "theme": "fear",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 41:17",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 42:1-4",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 43:1-2",
+    "theme": "fear",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Isaiah 43:18-19",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 44:21-23",
+    "theme": "redemption",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 46:3-4",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 48:17-18",
+    "theme": "guidance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 49:14-16",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 50:7-9",
+    "theme": "courage",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 51:1-3",
+    "theme": "guidance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 51:11",
+    "theme": "redemption",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 52:7-10",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 53:1-5",
+    "theme": "salvation",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Isaiah 53:4-6",
+    "theme": "healing",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Isaiah 54:1-5",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 54:10",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 55:1-3",
+    "theme": "provision",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 55:6-7",
+    "theme": "forgiveness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 55:8-11",
+    "theme": "guidance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 57:15",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 58:6-11",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 59:1-2",
+    "theme": "forgiveness",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 60:1-3",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 61:1-3",
+    "theme": "comfort",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Isaiah 63:7-9",
+    "theme": "love",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 64:1-4",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 65:1",
+    "theme": "grace",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 65:17-19",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 66:12-13",
+    "theme": "peace",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Isaiah 66:22-23",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Jeremiah 1:4-8",
+    "theme": "purpose",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Jeremiah 17:7-8",
+    "theme": "trust",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Jeremiah 17:14",
+    "theme": "healing",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Jeremiah 20:11",
+    "theme": "strength",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Jeremiah 29:11",
+    "theme": "hope",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Jeremiah 31:3",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Jeremiah 31:33-34",
+    "theme": "grace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Jeremiah 33:3",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Lamentations 3:21-26",
+    "theme": "faithfulness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Lamentations 3:22-23",
+    "theme": "faithfulness",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Ezekiel 36:26-27",
+    "theme": "identity",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Daniel 3:16-18",
+    "theme": "courage",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Daniel 6:10",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Daniel 6:22-24",
+    "theme": "protection",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Daniel 9:18-19",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Daniel 12:1-3",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Hosea 6:1-3",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Joel 2:12-13",
+    "theme": "repentance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Joel 2:25-27",
+    "theme": "restoration",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Amos 5:6",
+    "theme": "repentance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Amos 5:24",
+    "theme": "justice",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Jonah 2:2",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Micah 6:6-8",
+    "theme": "humility",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Micah 7:7-8",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Micah 7:18-20",
+    "theme": "forgiveness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Habakkuk 2:1-4",
+    "theme": "faith",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Habakkuk 3:17-19",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Zephaniah 3:14-17",
+    "theme": "joy",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Zechariah 4:6-7",
+    "theme": "strength",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Zechariah 9:9-12",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Malachi 3:6-7",
+    "theme": "faithfulness",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Malachi 3:10-12",
+    "theme": "provision",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Malachi 4:1-2",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Matthew 5:3-12",
+    "theme": "comfort",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Matthew 5:13-16",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Matthew 5:44-48",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Matthew 6:9-15",
+    "theme": "worship",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Matthew 6:19-21",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Matthew 6:25-34",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Matthew 6:33",
+    "theme": "purpose",
+    "devotional_score": 6
+  },
+  {
+    "reference": "Matthew 7:7-12",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Matthew 7:24-27",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Matthew 11:28-30",
+    "theme": "rest",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Matthew 11:28",
+    "theme": "rest",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Matthew 16:24-27",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Matthew 17:20",
+    "theme": "faith",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Matthew 18:3-4",
+    "theme": "humility",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Matthew 18:19-22",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Matthew 20:26-28",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Matthew 22:37-40",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Matthew 24:42-44",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Matthew 25:40",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Matthew 28:18-20",
+    "theme": "purpose",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Mark 1:14-15",
+    "theme": "repentance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Mark 2:17",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Mark 8:34-37",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Mark 10:45",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Mark 11:24-25",
+    "theme": "faith",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Mark 12:28-31",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Mark 13:31",
+    "theme": "faithfulness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 1:46-55",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 1:68-79",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 2:8-14",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 4:18-19",
+    "theme": "purpose",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Luke 6:27-36",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 6:37-38",
+    "theme": "forgiveness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 9:23-26",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Luke 11:1-4",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 11:9-13",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 12:6-7",
+    "theme": "fear",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 12:22-34",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 15:1-7",
+    "theme": "salvation",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Luke 17:5-6",
+    "theme": "faith",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 18:1-8",
+    "theme": "perseverance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Luke 18:9-14",
+    "theme": "humility",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 19:1-10",
+    "theme": "salvation",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Luke 21:25-28",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Luke 23:33-34",
+    "theme": "forgiveness",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Luke 23:46",
+    "theme": "faith",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Luke 24:1-8",
+    "theme": "resurrection",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 1:1-5",
+    "theme": "identity",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 1:12-13",
+    "theme": "identity",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 1:14",
+    "theme": "identity",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 1:16-17",
+    "theme": "grace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 3:1-8",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 3:16-17",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 3:36",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 4:23-24",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 5:24",
+    "theme": "salvation",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 6:35-40",
+    "theme": "hope",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 6:47",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 7:37-38",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 8:32",
+    "theme": "truth",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 8:36",
+    "theme": "freedom",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 10:10",
+    "theme": "hope",
+    "devotional_score": 7
+  },
+  {
+    "reference": "John 10:27-30",
+    "theme": "protection",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 12:23-26",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "John 13:34-35",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 14:1-6",
+    "theme": "hope",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 14:13-14",
+    "theme": "faith",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 14:26-27",
+    "theme": "peace",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 14:27",
+    "theme": "peace",
+    "devotional_score": 8
+  },
+  {
+    "reference": "John 15:1-8",
+    "theme": "purpose",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 15:9-17",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 16:23-24",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 16:33",
+    "theme": "peace",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 17:1-26",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 20:1-31",
+    "theme": "resurrection",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Acts 1:6-8",
+    "theme": "purpose",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Acts 2:1-4",
+    "theme": "holy_spirit",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Acts 2:37-39",
+    "theme": "salvation",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Acts 4:31",
+    "theme": "courage",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Acts 4:32-37",
+    "theme": "community",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Acts 5:29-32",
+    "theme": "courage",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Acts 7:54-60",
+    "theme": "courage",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Acts 9:1-22",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Acts 10:34-43",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Acts 13:38-39",
+    "theme": "forgiveness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Acts 15:8-11",
+    "theme": "grace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Acts 16:16-34",
+    "theme": "salvation",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Acts 17:24-28",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Acts 26:18",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Romans 1:16-17",
+    "theme": "salvation",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 3:23-26",
+    "theme": "grace",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 4:1-8",
+    "theme": "grace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Romans 5:1-5",
+    "theme": "peace",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 5:6-11",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 5:8",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 6:1-14",
+    "theme": "grace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Romans 6:23",
+    "theme": "salvation",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 8:1-4",
+    "theme": "freedom",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 8:5-17",
+    "theme": "identity",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Romans 8:18-30",
+    "theme": "hope",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 8:28",
+    "theme": "hope",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 8:31-39",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 8:38-39",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 10:8-13",
+    "theme": "salvation",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 10:9",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Romans 11:33-36",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Romans 12:1-2",
+    "theme": "purpose",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 12:2",
+    "theme": "purpose",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Romans 12:3-8",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Romans 12:9-21",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Romans 14:7-9",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Romans 15:1-7",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Romans 15:13",
+    "theme": "hope",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 Corinthians 1:18-25",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 Corinthians 1:26-31",
+    "theme": "humility",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 Corinthians 2:1-5",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Corinthians 4:7",
+    "theme": "humility",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 Corinthians 6:19-20",
+    "theme": "identity",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 Corinthians 9:16-23",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Corinthians 10:13",
+    "theme": "strength",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Corinthians 10:31",
+    "theme": "purpose",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 Corinthians 12:12-27",
+    "theme": "community",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Corinthians 13:1-13",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 Corinthians 13:4-8",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 Corinthians 15:1-11",
+    "theme": "resurrection",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 Corinthians 15:19-22",
+    "theme": "resurrection",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 Corinthians 15:55-58",
+    "theme": "resurrection",
+    "devotional_score": 9
+  },
+  {
+    "reference": "2 Corinthians 1:3-4",
+    "theme": "comfort",
+    "devotional_score": 10
+  },
+  {
+    "reference": "2 Corinthians 4:7-18",
+    "theme": "strength",
+    "devotional_score": 9
+  },
+  {
+    "reference": "2 Corinthians 4:16-18",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "2 Corinthians 5:1-10",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "2 Corinthians 5:14-21",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "2 Corinthians 5:17",
+    "theme": "identity",
+    "devotional_score": 7
+  },
+  {
+    "reference": "2 Corinthians 9:6-15",
+    "theme": "generosity",
+    "devotional_score": 8
+  },
+  {
+    "reference": "2 Corinthians 12:9",
+    "theme": "strength",
+    "devotional_score": 10
+  },
+  {
+    "reference": "2 Corinthians 13:11-14",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Galatians 2:20",
+    "theme": "identity",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Galatians 3:26-29",
+    "theme": "identity",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Galatians 5:1",
+    "theme": "freedom",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Galatians 5:22-26",
+    "theme": "fruit",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Galatians 6:7-10",
+    "theme": "purpose",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Galatians 6:14",
+    "theme": "purpose",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Ephesians 2:1-10",
+    "theme": "salvation",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Ephesians 2:8-10",
+    "theme": "grace",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Ephesians 2:10",
+    "theme": "purpose",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Ephesians 3:14-21",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Ephesians 4:1-6",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Ephesians 4:29-32",
+    "theme": "love",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Ephesians 5:1-2",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Ephesians 5:18-21",
+    "theme": "holy_spirit",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Ephesians 6:1-4",
+    "theme": "family",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Ephesians 6:10-18",
+    "theme": "strength",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Philippians 1:27-30",
+    "theme": "faith",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Philippians 2:1-11",
+    "theme": "humility",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Philippians 2:12-16",
+    "theme": "salvation",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Philippians 3:7-14",
+    "theme": "purpose",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Philippians 4:4-9",
+    "theme": "joy",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Philippians 4:6-7",
+    "theme": "peace",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Philippians 4:10-13",
+    "theme": "strength",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Philippians 4:13",
+    "theme": "strength",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Colossians 1:15-20",
+    "theme": "identity",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Colossians 2:1-7",
+    "theme": "growth",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Colossians 3:1-4",
+    "theme": "identity",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Colossians 3:12-17",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Colossians 3:23-24",
+    "theme": "purpose",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Colossians 4:2-6",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Thessalonians 1:1-10",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Thessalonians 4:13-18",
+    "theme": "hope",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 Thessalonians 5:1-11",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Thessalonians 5:16-24",
+    "theme": "joy",
+    "devotional_score": 9
+  },
+  {
+    "reference": "2 Thessalonians 2:1-5",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "2 Thessalonians 3:1-5",
+    "theme": "worship",
+    "devotional_score": 7
+  },
+  {
+    "reference": "2 Thessalonians 3:16-18",
+    "theme": "peace",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Timothy 1:1-2",
+    "theme": "hope",
+    "devotional_score": 7
+  },
+  {
+    "reference": "1 Timothy 4:7-10",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Timothy 6:6-12",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Timothy 6:17-19",
+    "theme": "trust",
+    "devotional_score": 8
+  },
+  {
+    "reference": "2 Timothy 1:1-7",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "2 Timothy 1:7",
+    "theme": "courage",
+    "devotional_score": 10
+  },
+  {
+    "reference": "2 Timothy 2:1-7",
+    "theme": "strength",
+    "devotional_score": 8
+  },
+  {
+    "reference": "2 Timothy 2:15",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "2 Timothy 3:14-17",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "2 Timothy 4:1-8",
+    "theme": "purpose",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Titus 2:1-8",
+    "theme": "wisdom",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Titus 2:11-14",
+    "theme": "grace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Titus 3:1-8",
+    "theme": "grace",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Hebrews 1:1-4",
+    "theme": "identity",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Hebrews 2:1-4",
+    "theme": "faith",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Hebrews 4:14-16",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Hebrews 5:1-4",
+    "theme": "salvation",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Hebrews 6:17-20",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Hebrews 7:23-25",
+    "theme": "salvation",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Hebrews 9:1-15",
+    "theme": "salvation",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Hebrews 10:19-25",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Hebrews 10:35-39",
+    "theme": "faith",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Hebrews 11:1-3",
+    "theme": "faith",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Hebrews 11:6",
+    "theme": "faith",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Hebrews 12:1-3",
+    "theme": "faith",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Hebrews 12:28-29",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Hebrews 13:1-6",
+    "theme": "love",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Hebrews 13:20-21",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "James 1:1-8",
+    "theme": "wisdom",
+    "devotional_score": 7
+  },
+  {
+    "reference": "James 1:9-12",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "James 1:17-27",
+    "theme": "faithfulness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "James 2:1-9",
+    "theme": "faith",
+    "devotional_score": 8
+  },
+  {
+    "reference": "James 2:10-13",
+    "theme": "faith",
+    "devotional_score": 8
+  },
+  {
+    "reference": "James 2:17-26",
+    "theme": "faith",
+    "devotional_score": 9
+  },
+  {
+    "reference": "James 3:1-12",
+    "theme": "wisdom",
+    "devotional_score": 7
+  },
+  {
+    "reference": "James 4:1-10",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "James 4:13-17",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "James 5:1-6",
+    "theme": "justice",
+    "devotional_score": 7
+  },
+  {
+    "reference": "James 5:7-12",
+    "theme": "perseverance",
+    "devotional_score": 8
+  },
+  {
+    "reference": "James 5:13-20",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Peter 1:1-9",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Peter 1:13-25",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 Peter 2:1-10",
+    "theme": "identity",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Peter 2:11-17",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Peter 3:1-9",
+    "theme": "humility",
+    "devotional_score": 7
+  },
+  {
+    "reference": "1 Peter 3:10-18",
+    "theme": "peace",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Peter 4:1-11",
+    "theme": "purpose",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Peter 5:1-7",
+    "theme": "humility",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Peter 5:6-11",
+    "theme": "humility",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 Peter 5:7",
+    "theme": "peace",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 Peter 5:14",
+    "theme": "peace",
+    "devotional_score": 7
+  },
+  {
+    "reference": "2 Peter 1:1-11",
+    "theme": "faith",
+    "devotional_score": 8
+  },
+  {
+    "reference": "2 Peter 3:1-14",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 John 1:1-4",
+    "theme": "identity",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 John 1:5-10",
+    "theme": "truth",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 John 1:9",
+    "theme": "forgiveness",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 John 2:1-6",
+    "theme": "forgiveness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 John 2:7-17",
+    "theme": "love",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 John 3:1-10",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 John 3:11-24",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 John 4:1-6",
+    "theme": "wisdom",
+    "devotional_score": 8
+  },
+  {
+    "reference": "1 John 4:7-12",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 John 4:13-21",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 John 4:19",
+    "theme": "love",
+    "devotional_score": 7
+  },
+  {
+    "reference": "1 John 5:1-5",
+    "theme": "faith",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 John 5:11-15",
+    "theme": "salvation",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 John 5:18-21",
+    "theme": "protection",
+    "devotional_score": 8
+  },
+  {
+    "reference": "2 John 1:1-6",
+    "theme": "love",
+    "devotional_score": 7
+  },
+  {
+    "reference": "3 John 1:1-4",
+    "theme": "love",
+    "devotional_score": 7
+  },
+  {
+    "reference": "Jude 1:1-25",
+    "theme": "faith",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Revelation 1:1-8",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Revelation 1:17-18",
+    "theme": "fear",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Revelation 2:1-7",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Revelation 3:1-6",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Revelation 3:14-22",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Revelation 5:1-14",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Revelation 7:1-12",
+    "theme": "protection",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Revelation 12:1-12",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Revelation 14:1-5",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Revelation 19:1-16",
+    "theme": "worship",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Revelation 21:1-7",
+    "theme": "hope",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Revelation 21:22-27",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Revelation 22:1-7",
+    "theme": "hope",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Revelation 22:12-17",
+    "theme": "hope",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Revelation 22:18-21",
+    "theme": "worship",
+    "devotional_score": 8
+  },
+  {
+    "reference": "Joshua 1:9",
+    "theme": "fear-courage",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Deuteronomy 31:6",
+    "theme": "fear-courage",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 34:4",
+    "theme": "fear-courage",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 118:6",
+    "theme": "fear-courage",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 John 4:4",
+    "theme": "fear-courage",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Colossians 3:15",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "2 Thessalonians 3:16",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 26:3",
+    "theme": "peace",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 40:29",
+    "theme": "strength-renewal",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 46:4",
+    "theme": "strength-renewal",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 73:26",
+    "theme": "strength-renewal",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 46:1-3",
+    "theme": "strength-renewal",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Ephesians 6:10",
+    "theme": "strength-renewal",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 18:1-2",
+    "theme": "strength-renewal",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 12:2",
+    "theme": "strength-renewal",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Jeremiah 29:12-13",
+    "theme": "hope-future",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Romans 8:31",
+    "theme": "hope-future",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 8:37",
+    "theme": "hope-future",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Lamentations 3:25",
+    "theme": "hope-future",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 130:5",
+    "theme": "hope-future",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 147:3",
+    "theme": "hope-future",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Proverbs 3:3-4",
+    "theme": "trust-wisdom",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 37:4-5",
+    "theme": "trust-wisdom",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 125:1",
+    "theme": "trust-wisdom",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 26:4",
+    "theme": "trust-wisdom",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 23:1-4",
+    "theme": "comfort-grief",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 34:18",
+    "theme": "comfort-grief",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 94:19",
+    "theme": "comfort-grief",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 14:1-3",
+    "theme": "comfort-grief",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 Peter 5:6-7",
+    "theme": "comfort-grief",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Revelation 21:4",
+    "theme": "comfort-grief",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 Corinthians 13:4-7",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 Corinthians 13:13",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 3:16",
+    "theme": "love",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 8:39",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 John 4:8",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Zephaniah 3:17",
+    "theme": "love",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Ephesians 2:8-9",
+    "theme": "grace-forgiveness",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Titus 2:11-12",
+    "theme": "grace-forgiveness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 1:18",
+    "theme": "grace-forgiveness",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Micah 7:18-19",
+    "theme": "grace-forgiveness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 103:11-12",
+    "theme": "grace-forgiveness",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 3:23-24",
+    "theme": "grace-forgiveness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Hebrews 11:1",
+    "theme": "faith-perseverance",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Hebrews 12:1-2",
+    "theme": "faith-perseverance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "James 1:2-4",
+    "theme": "faith-perseverance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "James 1:12",
+    "theme": "faith-perseverance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Mark 11:24",
+    "theme": "faith-perseverance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "2 Corinthians 4:17-18",
+    "theme": "faith-perseverance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Romans 10:17",
+    "theme": "faith-perseverance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Galatians 6:9",
+    "theme": "faith-perseverance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 23:1-6",
+    "theme": "gods-presence",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 139:1-5",
+    "theme": "gods-presence",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 139:9-10",
+    "theme": "gods-presence",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 143:8",
+    "theme": "gods-presence",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 30:21",
+    "theme": "gods-presence",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 58:11",
+    "theme": "gods-presence",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 5:3",
+    "theme": "morning-devotion",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 90:14",
+    "theme": "morning-devotion",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 118:24",
+    "theme": "morning-devotion",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Lamentations 3:23",
+    "theme": "morning-devotion",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 50:4",
+    "theme": "morning-devotion",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Nehemiah 8:10",
+    "theme": "joy-thanksgiving",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 100:1-2",
+    "theme": "joy-thanksgiving",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 100:4-5",
+    "theme": "joy-thanksgiving",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Philemon 1:6",
+    "theme": "joy-thanksgiving",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Colossians 2:6-7",
+    "theme": "joy-thanksgiving",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 Thessalonians 5:16-18",
+    "theme": "joy-thanksgiving",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 126:3",
+    "theme": "joy-thanksgiving",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 91:1-16",
+    "theme": "protection-deliverance",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 91:9-11",
+    "theme": "protection-deliverance",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 27:5",
+    "theme": "protection-deliverance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 125:2",
+    "theme": "protection-deliverance",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 119:111",
+    "theme": "gods-word",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Joshua 1:8",
+    "theme": "gods-word",
+    "devotional_score": 9
+  },
+  {
+    "reference": "2 Timothy 3:16-17",
+    "theme": "gods-word",
+    "devotional_score": 9
+  },
+  {
+    "reference": "James 1:22",
+    "theme": "gods-word",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 17:17",
+    "theme": "gods-word",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Numbers 23:19",
+    "theme": "gods-faithfulness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 33:4",
+    "theme": "gods-faithfulness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Lamentations 3:21-23",
+    "theme": "gods-faithfulness",
+    "devotional_score": 10
+  },
+  {
+    "reference": "1 Corinthians 1:9",
+    "theme": "gods-faithfulness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 Thessalonians 5:24",
+    "theme": "gods-faithfulness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "2 Corinthians 9:8",
+    "theme": "gods-faithfulness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Malachi 3:6",
+    "theme": "gods-faithfulness",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Psalm 103:2-3",
+    "theme": "healing",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Isaiah 53:5",
+    "theme": "healing",
+    "devotional_score": 10
+  },
+  {
+    "reference": "James 5:14-15",
+    "theme": "healing",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Exodus 15:26",
+    "theme": "healing",
+    "devotional_score": 9
+  },
+  {
+    "reference": "3 John 1:2",
+    "theme": "healing",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Ecclesiastes 3:1",
+    "theme": "timing-surrender",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Isaiah 40:31",
+    "theme": "timing-surrender",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Psalm 40:1-2",
+    "theme": "timing-surrender",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Matthew 6:33-34",
+    "theme": "timing-surrender",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 Peter 4:19",
+    "theme": "timing-surrender",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Matthew 7:7-8",
+    "theme": "prayer",
+    "devotional_score": 10
+  },
+  {
+    "reference": "John 15:7",
+    "theme": "prayer",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Romans 8:26-27",
+    "theme": "prayer",
+    "devotional_score": 9
+  },
+  {
+    "reference": "James 5:16",
+    "theme": "prayer",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 John 5:14-15",
+    "theme": "prayer",
+    "devotional_score": 9
+  },
+  {
+    "reference": "John 11:25-26",
+    "theme": "abundant-life",
+    "devotional_score": 10
+  },
+  {
+    "reference": "Romans 6:4",
+    "theme": "abundant-life",
+    "devotional_score": 9
+  },
+  {
+    "reference": "Galatians 5:22-23",
+    "theme": "abundant-life",
+    "devotional_score": 9
+  },
+  {
+    "reference": "1 Corinthians 15:57",
+    "theme": "abundant-life",
+    "devotional_score": 9
+  },
+  {
+    "reference": "2 Peter 1:3",
+    "theme": "abundant-life",
+    "devotional_score": 9
+  }
+]

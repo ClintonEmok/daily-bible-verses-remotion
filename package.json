@@ -9,6 +9,7 @@
     "render:devotional": "remotion render src/index.ts DevotionalSample out/devotional.mp4",
     "sample:verse": "python scripts/generate_verse_sample.py",
     "sample:devotional": "python scripts/generate_devotional_sample.py",
+    "production": "python scripts/run_production.py",
     "check": "tsc --noEmit"
   },
   "dependencies": {

@@ -1,0 +1,5 @@
+# Python runtime for scripts/run_production.py
+numpy<2
+kokoro==0.9.4
+soundfile>=0.12
+requests>=2.31

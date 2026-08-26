@@ -31,6 +31,10 @@ export const RemotionRoot: React.FC = () => {
         fps={FPS}
         width={1080}
         height={1920}
+        defaultProps={{ devotionalData: DEVOTIONAL }}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil((((props as { devotionalData?: { duration?: number } }).devotionalData?.duration ?? DEVOTIONAL.duration) + 1.2) * FPS),
+        })}
       />
     </>
   );

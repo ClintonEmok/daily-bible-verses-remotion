@@ -11,6 +11,7 @@ import {
   Easing,
 } from "remotion";
 import { SAMPLE } from "./sampleData";
+import { resolvePalette } from "./palettes";
 
 type Phrase = {
   index: number;
@@ -28,6 +29,7 @@ type VerseData = {
   voice: string;
   mode: string;
   alignment: string;
+  palette?: string;
 };
 
 type BibleShortProps = {
@@ -43,6 +45,7 @@ const HAIRLINE = "rgba(232,196,122,0.28)";
 
 export const BibleShort: React.FC<BibleShortProps> = ({ verseData, backgroundImage }) => {
   const data = verseData ?? SAMPLE;
+  const palette = resolvePalette(data.palette);
   const frame = useCurrentFrame();
   const { fps, durationInFrames } = useVideoConfig();
   const seconds = frame / fps;
@@ -102,8 +105,7 @@ export const BibleShort: React.FC<BibleShortProps> = ({ verseData, backgroundIma
     <AbsoluteFill
       style={{
         transform: `scale(${bgScale})`,
-        background:
-          "radial-gradient(120% 80% at 50% 0%, rgba(56,74,110,0.45) 0%, rgba(11,17,32,0) 60%), radial-gradient(100% 70% at 50% 100%, rgba(120,86,42,0.35) 0%, rgba(11,17,32,0) 55%), linear-gradient(180deg, #0D1526 0%, #0B1120 100%)",
+        background: palette.background,
       }}
     />
   );

@@ -7,6 +7,7 @@ export const DEVOTIONAL = {
   "word_count": 81,
   "mode": "devotional",
   "alignment": "Kokoro block boundaries; no WhisperX",
+  "palette": "purple",
   "blocks": [
     {
       "index": 0,

@@ -36,5 +36,6 @@ export const SAMPLE = {
   "duration": 14.275,
   "voice": "af_heart",
   "mode": "verse-only",
-  "alignment": "Kokoro phrase chunk boundaries; no WhisperX"
+  "alignment": "Kokoro phrase chunk boundaries; no WhisperX",
+  "palette": "navy",
 } as const;

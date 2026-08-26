@@ -10,6 +10,9 @@ import {
   Easing,
 } from "remotion";
 import { DEVOTIONAL } from "./devotionalSampleData";
+import { resolvePalette } from "./palettes";
+
+type DevotionalData = typeof DEVOTIONAL & { palette?: string };
 
 const CANVAS = "#0B1120";
 const INK = "#F8FAFC";
@@ -17,17 +20,19 @@ const MUTED = "rgba(226,232,240,0.42)";
 const GOLD = "#E8C47A";
 const HAIRLINE = "rgba(232,196,122,0.28)";
 
-export const DevotionalSample: React.FC = () => {
+export const DevotionalSample: React.FC<{ devotionalData?: DevotionalData }> = ({ devotionalData }) => {
+  const data = devotionalData ?? DEVOTIONAL;
+  const palette = resolvePalette(data.palette);
   const frame = useCurrentFrame();
   const { fps, durationInFrames } = useVideoConfig();
   const seconds = frame / fps;
 
-  const activeIndex = DEVOTIONAL.blocks.findIndex((block, index) => {
-    const nextStart = DEVOTIONAL.blocks[index + 1]?.start ?? block.end;
+  const activeIndex = data.blocks.findIndex((block, index) => {
+    const nextStart = data.blocks[index + 1]?.start ?? block.end;
     return seconds >= block.start && seconds < nextStart;
   });
-  const safeActiveIndex = activeIndex >= 0 ? activeIndex : DEVOTIONAL.blocks.length - 1;
-  const active = DEVOTIONAL.blocks[safeActiveIndex];
+  const safeActiveIndex = activeIndex >= 0 ? activeIndex : data.blocks.length - 1;
+  const active = data.blocks[safeActiveIndex];
   const currentKind = active.kind;
 
   const bgScale = interpolate(frame, [0, durationInFrames], [1.04, 1.13], {
@@ -52,10 +57,7 @@ export const DevotionalSample: React.FC = () => {
       <AbsoluteFill
         style={{
           transform: `scale(${bgScale})`,
-          background:
-            currentKind === "prayer"
-              ? "radial-gradient(100% 80% at 50% 10%, rgba(92,73,126,0.48) 0%, rgba(11,17,32,0) 62%), radial-gradient(100% 70% at 50% 100%, rgba(120,86,42,0.35) 0%, rgba(11,17,32,0) 58%), linear-gradient(180deg, #11172B 0%, #0B1120 100%)"
-              : "radial-gradient(120% 80% at 50% 0%, rgba(56,74,110,0.48) 0%, rgba(11,17,32,0) 60%), radial-gradient(100% 70% at 50% 100%, rgba(120,86,42,0.35) 0%, rgba(11,17,32,0) 55%), linear-gradient(180deg, #0D1526 0%, #0B1120 100%)",
+          background: currentKind === "prayer" ? palette.prayerBackground : palette.background,
         }}
       />
 
@@ -86,7 +88,7 @@ export const DevotionalSample: React.FC = () => {
             fontFamily: "Georgia, serif",
           }}
         >
-          {DEVOTIONAL.reference}
+          {data.reference}
         </div>
         <div
           style={{
@@ -103,7 +105,7 @@ export const DevotionalSample: React.FC = () => {
       </div>
 
       {currentKind === "verse" ? (
-        <VerseScene activeIndex={activeIndex} />
+        <VerseScene activeIndex={safeActiveIndex} data={data} />
       ) : (
         <TextScene block={active} />
       )}
@@ -132,12 +134,12 @@ export const DevotionalSample: React.FC = () => {
         </div>
       </div>
 
-      <Audio src={staticFile(DEVOTIONAL.audio)} />
+      <Audio src={staticFile(data.audio)} />
     </AbsoluteFill>
   );
 };
 
-function TextScene({ block }: { block: (typeof DEVOTIONAL.blocks)[number] | undefined }) {
+function TextScene({ block }: { block: DevotionalData["blocks"][number] | undefined }) {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const opacity = interpolate(frame, [0, 14], [0, 1], {
@@ -185,8 +187,8 @@ function TextScene({ block }: { block: (typeof DEVOTIONAL.blocks)[number] | unde
   );
 }
 
-function VerseScene({ activeIndex }: { activeIndex: number }) {
-  const verseBlocks = DEVOTIONAL.blocks.filter((block) => block.kind === "verse");
+function VerseScene({ activeIndex, data }: { activeIndex: number; data: DevotionalData }) {
+  const verseBlocks = data.blocks.filter((block) => block.kind === "verse");
   return (
     <div
       style={{
@@ -200,7 +202,7 @@ function VerseScene({ activeIndex }: { activeIndex: number }) {
       }}
     >
       {verseBlocks.map((block) => {
-        const globalIndex = DEVOTIONAL.blocks.findIndex((candidate) => candidate.index === block.index);
+        const globalIndex = data.blocks.findIndex((candidate) => candidate.index === block.index);
         const isActive = globalIndex === activeIndex;
         const isSpoken = activeIndex > globalIndex;
         return (
