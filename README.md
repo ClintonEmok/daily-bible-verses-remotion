@@ -41,6 +41,16 @@ The production config is non-secret at `config/production.json`. API keys are lo
 ~/.hermes/profiles/bible-shorts/youtube_settings.json
 ```
 
+Access tokens refresh on demand during upload. If Google revokes the refresh token, renew it with the safe helper:
+
+```bash
+PYTHONPATH=src /Users/clintonemok/miniconda3/envs/bible-shorts/bin/python scripts/refresh_youtube_token_auth.py --url
+# Approve the URL in Safari, then:
+PYTHONPATH=src /Users/clintonemok/miniconda3/envs/bible-shorts/bin/python scripts/refresh_youtube_token_auth.py
+```
+
+The helper never prints token values and keeps credentials outside the repository.
+
 ## Background palette
 
 Every production run receives the next palette in a persistent no-repeat cycle:
