@@ -12,3 +12,4 @@ public/backgrounds/*
 data/production_state.json
 data/records/*.json
 scripts/__pycache__/
+**/__pycache__/
