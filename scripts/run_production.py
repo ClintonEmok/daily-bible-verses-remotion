@@ -88,7 +88,28 @@ def choose_verse(verses: list[dict[str, Any]], state: dict[str, Any], forced: st
     pool = eligible or verses
     rng = random.Random(seed)
     weights = [max(1, int(verse.get("devotional_score", 5))) for verse in pool]
-    return rng.choices(pool, weights=weights, k=1)[0]
+    chosen = rng.choices(pool, weights=weights, k=1)[0]
+
+    # Same-day guard: never allow a second upload on one day to repeat a verse
+    # already taken earlier that day. Re-draw deterministically from what remains.
+    last_used = used.get(chosen["reference"])
+    if last_used == today.isoformat():
+        taken_today = {ref for ref, day in used.items() if day == today.isoformat()}
+        remaining = [verse for verse in pool if verse["reference"] not in taken_today]
+        if remaining:
+            weights = [max(1, int(verse.get("devotional_score", 5))) for verse in remaining]
+            chosen = rng.choices(remaining, weights=weights, k=1)[0]
+            # Belt and braces: keep re-drawing within the same seed until fresh.
+            attempts = 0
+            while chosen["reference"] in taken_today and attempts < 100:
+                attempts += 1
+                chosen = random.Random(f"{seed}:{attempts}").choices(
+                    [v for v in pool if v["reference"] not in taken_today] or pool,
+                    k=1,
+                )[0]
+        if chosen["reference"] in taken_today:
+            raise RuntimeError("Could not draw a unique verse for this slot")
+    return chosen
 
 
 def choose_palette(state: dict[str, Any]) -> str:
