@@ -23,6 +23,9 @@ export const RemotionRoot: React.FC = () => {
           verseData: SAMPLE,
           backgroundImage: null,
         }}
+        calculateMetadata={({ props }) => ({
+          durationInFrames: Math.ceil((((props as { verseData?: { duration?: number } }).verseData?.duration ?? SAMPLE.duration) + 1.2) * FPS),
+        })}
       />
       <Composition
         id="DevotionalSample"

@@ -331,9 +331,43 @@ def write_srt(blocks: list[dict[str, Any]], path: Path) -> None:
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
-def render(config: dict[str, Any], data: dict[str, Any], props_path: Path, output_path: Path) -> None:
-    props_path.write_text(json.dumps({"devotionalData": data}, indent=2, ensure_ascii=False), encoding="utf-8")
-    command = ["npx", "remotion", "render", "src/index.ts", "DevotionalSample", str(output_path), f"--props={props_path}"]
+def generate_reading_audio(config: dict[str, Any], verse: dict[str, Any], audio_path: Path) -> tuple[list[dict[str, Any]], float]:
+    """Narrate a verse-only reading. Phrases split on KJV clause punctuation."""
+    tts = config["tts"]
+    pipeline = KPipeline(lang_code="a")
+    phrases = split_text(verse["text"])
+    sample_rate = int(tts.get("sample_rate", 24000))
+    pause_seconds = float(tts.get("pause_seconds", 0.10))
+    pause = np.zeros(int(sample_rate * pause_seconds), dtype=np.float32)
+    parts: list[np.ndarray] = []
+    phrases_out: list[dict[str, Any]] = []
+    cursor = 0.0
+    for index, phrase in enumerate(phrases):
+        chunks = list(pipeline(phrase, voice=tts["voice"], speed=float(tts["speed"])))
+        if not chunks:
+            raise RuntimeError(f"Kokoro returned no audio for {phrase!r}")
+        audio = np.concatenate([np.asarray(chunk.audio, dtype=np.float32) for chunk in chunks])
+        parts.append(audio)
+        start = cursor
+        end = start + len(audio) / sample_rate
+        phrases_out.append({"index": index, "text": phrase, "start": round(start, 4), "end": round(end, 4)})
+        cursor = end
+        if index < len(phrases) - 1:
+            parts.append(pause)
+            cursor += pause_seconds
+    combined = np.concatenate(parts)
+    audio_path.parent.mkdir(parents=True, exist_ok=True)
+    sf.write(audio_path, combined, sample_rate)
+    return phrases_out, len(combined) / sample_rate
+
+
+def render(config: dict[str, Any], data: dict[str, Any], props_path: Path, output_path: Path, composition: str = "DevotionalSample") -> None:
+    if composition == "DevotionalSample":
+        props_payload = {"devotionalData": data}
+    else:
+        props_payload = {"verseData": data}
+    props_path.write_text(json.dumps(props_payload, indent=2, ensure_ascii=False), encoding="utf-8")
+    command = ["npx", "remotion", "render", "src/index.ts", composition, str(output_path), f"--props={props_path}"]
     try:
         result = subprocess.run(command, cwd=ROOT, check=True, timeout=900, capture_output=True, text=True)
     except subprocess.CalledProcessError as exc:
@@ -423,6 +457,7 @@ def main() -> int:
     parser.add_argument("--privacy", choices=["public", "unlisted", "private"])
     parser.add_argument("--upload-record", type=Path, help="Upload an existing retained record and then delete its generated artifacts")
     parser.add_argument("--script-json", type=Path, help="Use a prepared script JSON instead of calling the LLM")
+    parser.add_argument("--format", choices=["devotional", "reading"], default="devotional", help="reading = verse-only Bible Short; devotional = full narration")
     args = parser.parse_args()
 
     config = load_config(args.config)
@@ -454,23 +489,47 @@ def main() -> int:
     atomic_json_write(state_path, state)
 
     try:
-        raw_script = json.loads(args.script_json.read_text(encoding="utf-8")) if args.script_json else call_llm(config, verse)
-        script = normalize_script(raw_script, verse, int(config["content"]["max_narration_words"]))
-        blocks, duration = generate_audio(config, script, audio_path)
+        if args.format == "reading":
+            blocks, duration = generate_reading_audio(config, verse, audio_path)
+            data = {
+                "reference": verse["reference"].upper(),
+                "verseText": verse["text"],
+                "phrases": blocks,
+                "audio": f"generated/{audio_path.name}",
+                "voice": config["tts"]["voice"],
+                "speed": config["tts"]["speed"],
+                "duration": round(duration, 4),
+                "mode": "verse-only",
+                "alignment": "Kokoro phrase chunk boundaries; no WhisperX",
+                "palette": palette,
+            }
+            script = {
+                "title": f"{verse['reference']} - Daily Bible Reading",
+                "description": f"A quiet reading of {verse['reference']} from the King James Version.",
+                "caption": f"{verse['reference']} (KJV)",
+                "hashtags": ["Bible", "KJV", "DailyVerse", "#BibleShorts", "#DailyVerse"],
+                "narration": verse["text"],
+                "word_count": word_count(verse["text"]),
+            }
+        else:
+            raw_script = json.loads(args.script_json.read_text(encoding="utf-8")) if args.script_json else call_llm(config, verse)
+            script = normalize_script(raw_script, verse, int(config["content"]["max_narration_words"]))
+            blocks, duration = generate_audio(config, script, audio_path)
+            data = {
+                "reference": verse["reference"].upper(),
+                "audio": f"generated/{audio_path.name}",
+                "voice": config["tts"]["voice"],
+                "speed": config["tts"]["speed"],
+                "duration": round(duration, 4),
+                "word_count": script["word_count"],
+                "mode": "devotional",
+                "alignment": "Kokoro block boundaries; no WhisperX",
+                "palette": palette,
+                "blocks": blocks,
+            }
         write_srt(blocks, srt_path)
-        data = {
-            "reference": verse["reference"].upper(),
-            "audio": f"generated/{audio_path.name}",
-            "voice": config["tts"]["voice"],
-            "speed": config["tts"]["speed"],
-            "duration": round(duration, 4),
-            "word_count": script["word_count"],
-            "mode": "devotional",
-            "alignment": "Kokoro block boundaries; no WhisperX",
-            "palette": palette,
-            "blocks": blocks,
-        }
-        render(config, data, props_path, mp4_path)
+        composition = "BibleShort" if args.format == "reading" else "DevotionalSample"
+        render(config, data, props_path, mp4_path, composition=composition)
         rendered_duration = ffprobe_duration(mp4_path)
         expected = duration + float(config["video"].get("tail_seconds", 1.2))
         if abs(rendered_duration - expected) > 1.0:
@@ -479,6 +538,7 @@ def main() -> int:
         meta = {
             "run_id": run_id,
             "stage": "rendered",
+            "format": args.format,
             "verse": {"reference": verse["reference"], "text": verse["text"], "theme": verse.get("theme")},
             "script": script,
             "palette": palette,
